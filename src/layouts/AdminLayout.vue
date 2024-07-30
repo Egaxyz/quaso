@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-row-reverse space-x-4 space-x-reverse">
+  <div class="flex flex-auto">
     <p class="underline decoration-wavy">rawwrrr</p>
   </div>
 </template>

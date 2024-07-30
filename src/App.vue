@@ -1,7 +1,8 @@
 <template>
-  <AdminLayout />
+  <Navbar/>
 </template>
 
 <script setup>
-import AdminLayout from "./layouts/AdminLayout.vue";
+
+import Navbar from "./components/Navbar.vue";
 </script>
